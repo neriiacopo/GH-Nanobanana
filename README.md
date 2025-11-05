@@ -1,5 +1,7 @@
 # Gemini × Rhino (Grasshopper Integration)
 
+<img width="100%" height="auto" alt="pipeline" src="https://github.com/user-attachments/assets/73677f4c-caff-41b3-b625-4c5f6e5645ca" />
+
 This repository contains a **Grasshopper script for Rhino 8** that connects to **Google Gemini (Nanobanana)** to generate images directly from the Rhino environment.  
 The tool enables AI-powered image generation using **text prompts** and **viewport captures**, bridging design modeling and generative visualization.
 
